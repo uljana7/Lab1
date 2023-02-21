@@ -1,0 +1,11 @@
+C:\Users\Uliana\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\Uliana\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Uliana\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\Uliana\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Uliana\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Лаба1прога.Form1.resources
+C:\Users\Uliana\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Лаба1прога.Properties.Resources.resources
+C:\Users\Uliana\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Лаба1прога.exe.config
+C:\Users\Uliana\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Лаба1прога.exe
+C:\Users\Uliana\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Лаба1прога.pdb
+C:\Users\Uliana\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Лаба1прога.exe
+C:\Users\Uliana\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Лаба1прога.pdb

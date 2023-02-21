@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<data name="mystring" xml:space="preserve">
+	<value>My cat is black and always hungry.</value>
+</data>
+
+<Image x:Name="myXAMLImageElement" Source="ms-appx:///Assets/Images/logo.png"/>
